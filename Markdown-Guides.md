@@ -8,6 +8,19 @@
 > 
 > 注: 在HTML区块标签内的Markdown格式语法不会被处理；但是在Markdown格式内可以随意使用HTML标签
 > 
+### 语法高亮
+> 
+> ```html   
+>   
+>  代码块   
+> ```
+
+```php
+function test(){
+    return 'This is php code';    
+}
+```
+
 ### 快捷键
 > 输入 mdl + Tab 插入链接标记 `[](link)`  
 > 输入 mdi + Tab 插入图片标记 `![Alt text](/path/to/img.jpg "Optional title")`
