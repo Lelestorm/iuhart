@@ -1,5 +1,6 @@
 ### 触发器
 ---
+> 触发器能不用尽量不用。
 #### 语法
 >   CREATE TRIGGER `trigger_name`   
 >   `trigger_time`   
