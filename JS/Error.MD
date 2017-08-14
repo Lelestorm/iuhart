@@ -92,4 +92,4 @@ console.assert() 类似于单元测试中的断言，当表达式为 false 时�
 console.dir() 为了将特定的 JS 对象显示为可以交互的列表，而列表是折叠起来的。
 
 在 Chrome 中打印 DOM 元素时，两个方法输出的结果大不一样。console.log() 会将 DOM 元素以 HTML 的形式输出，而 console.dir() 则会以 JSON 对象的形式输出。
-![](http://img.blog.csdn.net/20161215094243638 "")
+![](./images/error-2-5.png "")
