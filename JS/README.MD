@@ -7,4 +7,4 @@
 ## 学习目录
 
 #### 内置对象（Global_Objects）
-* [Error](./Error.MD)
+* [Error](./Global_Objects/Error.MD)
