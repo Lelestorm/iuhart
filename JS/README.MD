@@ -8,3 +8,4 @@
 
 #### 内置对象（Global_Objects）
 * [Error](./Global_Objects/Error.MD)
+* [值属性](./Global_Objects/value.MD)
