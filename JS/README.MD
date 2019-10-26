@@ -2,7 +2,7 @@
 
 * [阮一峰ES6入门指南](http://es6.ruanyifeng.com/) 
 * [JavaScript教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-
+* [语法技巧](./Global_Objects/Grammar.MD)
 
 ## 学习目录
 
