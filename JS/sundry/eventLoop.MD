@@ -36,7 +36,7 @@
   
     Js异步有一个机制，就是遇到宏任务，先执行宏任务，降宏任务放入`Event Queue`，然后再执行微任务，将微任务放入`Event Queue`。最骚的是，这两个`Queue`不是一个`Queue`。当你往外拿的时候先从微任务里拿这个回调函数，然后再从宏任务的`Queue`上拿宏任务的回调函数。
     
-    ![事件循环](../images/20180411202638415.png)
+   ![事件循环](../images/20180411202638415.png)
     
     
 ### 零延迟
@@ -60,9 +60,9 @@
 
 ### 相关阅读
 
-  [并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
+    [并发模型与事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
   
-  [参考博客](https://juejin.im/post/59e85eebf265da430d571f89)
+    [参考博客](https://juejin.im/post/59e85eebf265da430d571f89)
   
 
 
