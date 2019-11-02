@@ -5,7 +5,7 @@
 
 ## 杂项笔记
   * [语法技巧](./sundry/Grammar.MD)
-  * [事件循环](./sundry/eventLoop.MD "同步任务&异步任务&宏任务&微任务")
+  * [Event Loop](./sundry/eventLoop.MD "同步任务&异步任务&宏任务&微任务")
 
 ## 学习目录
 
