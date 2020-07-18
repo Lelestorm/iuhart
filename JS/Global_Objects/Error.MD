@@ -102,7 +102,7 @@
     console.table(car);
 </script>
 ```
-控制台console.log() 对比 console.table()输出结果： 
+控制台console.log() 对比 console.table()输出结果： <br>
 ![console.table()示例](../images/error-2-1.png "")
 ### console.time()、console.timeEnd()
 在调试时，我们经常需要知道一段代码执行时间，用 console.time() 和 console.timeEnd() 包围要测试运行时间的代码，这两个方法的参数保持一致，以便正确识别和匹配代码开始和结束的位置。看下面一段代码：
